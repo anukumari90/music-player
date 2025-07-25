@@ -1,0 +1,47 @@
+# 🎵 Music Player
+
+This is a simple and beautiful **HTML, CSS, and JavaScript-based music player**.  
+It allows users to **play, pause, skip, and enjoy music with a stylish interface**.
+
+---
+
+## 📁 Features
+
+- 🎶 Play, pause, and resume songs  
+- ⏭ Skip to next track (if added)  
+- 🎨 Stylish layout with image and animation  
+- 📱 Responsive on mobile and desktop  
+
+---
+
+## 📂 Project Structure
+
+| File           | Description                     |
+|----------------|---------------------------------|
+| `music.html`   | Main HTML structure             |
+| `music.css`    | Styling with custom design      |
+| `music.js`     | JavaScript for music control    |
+| `song.mp3`     | Demo song used for the player   |
+| `music-img.jpeg` | Cover image used in layout    |
+
+---
+
+## 🚀 How to Run
+
+1. Download or clone the repository  
+2. Open `music.html` in any browser  
+3. Enjoy the music 🎧
+
+---
+
+## 🙋‍♀️ About Me
+
+Hi, I’m **Anu Kumari**!  
+I'm learning front-end development, and this is one of my creative projects.  
+Feel free to connect or suggest improvements! 😊
+
+---
+
+## 🌐 Live Demo (optional)
+
+_If you host it online later (like with GitHub Pages), add link here!_
